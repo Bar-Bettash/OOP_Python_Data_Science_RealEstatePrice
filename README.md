@@ -99,19 +99,19 @@ New features like bedroom_ratio and household_rooms are derived to capture poten
 
 ### Histograms: 
 Visualize the distribution of numerical features to identify potential outliers or skewness.
-![image](https://github.com/user-attachments/assets/ea24922a-d982-4891-8138-86e32710f36a)
+![image](https://github.com/user-attachments/assets/5ec65999-9774-4128-93f7-58f1bcdff9e6)
 
 
 ### Correlation matrix: 
 
 Analyze the correlation between numerical features using a heatmap.
-![image](https://github.com/user-attachments/assets/32a95ba8-7780-4112-b95e-79880be6e48e)
+![image](https://github.com/user-attachments/assets/11bdce4e-0acc-48a4-b273-e2b0855a102f)
 
 
 ### Scatterplot: 
 
 Explore the relationship between latitude, longitude, and median house value using a scatterplot with color-coded values.
-![image](https://github.com/user-attachments/assets/41607d3d-b883-43c6-a136-970006bdf404)
+![image](https://github.com/user-attachments/assets/e599101c-694e-4086-8846-759d40b6f3ec)
 
 
 ## Model Training:
