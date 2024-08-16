@@ -15,10 +15,6 @@ https://www.kaggle.com/datasets/camnugent/california-housing-prices
 
 ### Built With
 
-![image](https://github.com/user-attachments/assets/7e3ed475-d755-480f-b808-6331248bd409)
-
-
-
 Python <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
