@@ -6,9 +6,13 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The Project & OOP (Object Oriented Programming)
 
-This project aims to predict housing prices using a dataset containing various features related to housing in California. The project includes data cleaning, exploratory data analysis (EDA), feature engineering, data visualization, and model training using linear regression and random forest regression, with hyperparameter tuning using grid search.
+### Sections
+
+* Regular DS Project: This project aims to predict housing prices using a dataset containing various features related to housing in California. The project includes data cleaning, exploratory data analysis (EDA), feature engineering, data visualization, and model training using linear regression and random forest regression, with hyperparameter tuning using grid search.
+
+* OOP: This is a small side-project that showcases the usage of OOP in Data Science.
 
 ### Data from
 https://www.kaggle.com/datasets/camnugent/california-housing-prices
